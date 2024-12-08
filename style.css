@@ -6,8 +6,12 @@
     margin-top: 20;
     text-decoration: none;
 }
-.link:hover{
+/* .link:hover{
     background-color: aquamarine;
     font-size: 18px;
     font-weight: bold;
+} */
+.link:active{
+    background-color: red;
+    color: black;
 }

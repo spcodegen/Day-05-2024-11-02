@@ -1,14 +1,13 @@
-.box{
-    background-color: blue;
-    height: 100px;
-    width: 100px;
-/*     
-    position: relative;
-    position: absolute;
-    position: fixed; */
-
-    position: sticky;
-    top: 10px;
-    
-    z-index: -1;
+.link{
+    background-color: green;
+    font-size: 14px;
+    color: white;
+    padding: 25px;
+    margin-top: 20;
+    text-decoration: none;
+}
+.link:hover{
+    background-color: aquamarine;
+    font-size: 18px;
+    font-weight: bold;
 }

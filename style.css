@@ -2,5 +2,13 @@
     background-color: blue;
     height: 100px;
     width: 100px;
-    padding: 10px;
+/*     
+    position: relative;
+    position: absolute;
+    position: fixed; */
+
+    position: sticky;
+    top: 10px;
+    
+    z-index: -1;
 }

@@ -5,6 +5,7 @@
     padding: 25px;
     margin-top: 20;
     text-decoration: none;
+    display: block;
 }
 /* .link:hover{
     background-color: aquamarine;
@@ -12,6 +13,6 @@
     font-weight: bold;
 } */
 .link:active{
-    background-color: red;
-    color: black;
+    display: none;
+
 }
